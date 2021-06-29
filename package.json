@@ -1,6 +1,6 @@
 {
-  "name": "reminder",
-  "version": "0.1.0",
+  "name": "tours",
+  "version": "1.0.0",
   "private": true,
   "homepage": "http://ujalak1812.github.io/tours",
   "dependencies": {
